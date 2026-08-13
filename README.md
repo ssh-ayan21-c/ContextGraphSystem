@@ -1,4 +1,4 @@
-# Dodge AI - Context Graph System
+# Context Graph System
 
 An LLM-powered Context Graph System tracing complex Order-to-Cash corporate processes natively into Neo4j instances, featuring an interactive physics-simulated Force Graph visualization dashboard.
 
